@@ -59,7 +59,10 @@ body {
   margin-top: 65%;
 }
 #tan-table {
-  width: 450px;
-  height: 140px;
-  background-color: #D2691E;
+  background-color:#D2691E;
+  width:450px;
+  height:140px;
+  position:absolute;
+  top:275px;
+  left:15px;
 }
