@@ -113,3 +113,17 @@ left:59%;
   .blue {
     background-color:#1E90FF;
   }
+  #blue-left {
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+#blue-right {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
