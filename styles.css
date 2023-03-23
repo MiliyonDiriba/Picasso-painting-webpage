@@ -145,3 +145,10 @@ left:59%;
   left: 5px;
   z-index:-1;
   }
+#eyes-div {
+  width:180px;
+  height:50px;
+  position:absolute;
+  top:-40px;
+  left:20px;
+}
