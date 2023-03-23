@@ -176,4 +176,5 @@ left:59%;
     position: absolute;
     top: 120px;
     left: 0px;
+    z-index: 3;
 }
