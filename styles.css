@@ -184,3 +184,11 @@ left:59%;
   background-color:Goldenrod;
   border-radius:50%;
 }
+#guitar-left {
+  position:absolute;
+  left:0px;
+}
+#guitar-right {
+  position:absolute;
+  left:100px;
+}
